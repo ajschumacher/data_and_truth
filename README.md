@@ -9,8 +9,8 @@ Schumacher ([@planarrowspace][]).
 
 
 I would like to approach some ideas about data and truth through a
-specific example. Some theoretical frameworks will be mixed in. And by
-the end I'll have made a few recommendations.
+specific example. Some theoretical frameworks will be mixed in. By the
+end I'll have made a few recommendations.
 
 ```
 How many NYC public school English
@@ -25,7 +25,7 @@ York State math test in 2008?
 
 You'll notice that this is a very specific question, and this is
 because I'm cheating. I've aligned the question to the data I happen
-to have. So that's a problem that you can start your list with.
+to have.
 
 Just for fun, take it as a Fermi problem - how many do you think there
 were? Can you estimate the answer?
