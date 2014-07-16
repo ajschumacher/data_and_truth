@@ -182,7 +182,7 @@ respect for someone somewhere. It's not really evidence that the data
 is "true".
 
 The redundant data certainly isn't needed and introduces more places
-for mistakes to happen both in production and use. The funadmental
+for mistakes to happen both in production and use. The fundamental
 problem, as is often the case, is that the data we see is really a
 view of other data, and we'd like to reduce the number of these
 indirections. So these rows really shouldn't be in there. But this is a
