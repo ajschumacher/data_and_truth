@@ -352,10 +352,10 @@ In [10]: assert((d['Category'] == 'ELLs').sum() == 6)
 Computer scientist types are sometimes excited about homoiconicity,
 which we can think of as having your code also be data. I think that
 we should flip this around and think of our data as also being code.
-Then assertions, which you might have many of if you're trying to use
-them to ensure that you data hasn't changed, can instead be used more
-expressively, and you have real assurance that the data is the data
-your code is for.
+Then you don't need a million assertions to check that each piece of
+the data is the data you expect. If the data is in another file, you
+do one assertion that the file is the same file you thought it was,
+and you can go on then to use assertions in useful expressive ways.
 
 ```Python
 In [11]: sha('ell.csv')
